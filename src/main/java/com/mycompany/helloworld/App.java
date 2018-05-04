@@ -8,7 +8,7 @@ public class App
 {
     public static void main( String[] args )
     {
-	System.out.println( "»¶Ó­¹Ø×¢£º±à³Ì¿ÓÌ«¶à!" );
+	System.out.println( "hello jenkins!" );
         System.out.println( "Hello World!" );
         System.out.println( "Hello to myself!" );
         System.out.println( "Finishing CI Course" );
